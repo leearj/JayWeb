@@ -1,1 +1,2 @@
 User-agent: *Allow:/
+Sitemap: https: https://jayydol.netlify.com/sitemap.xml
